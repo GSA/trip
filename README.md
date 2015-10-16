@@ -16,6 +16,9 @@ Then post the data in flightdata.json to elastic search
 This tool was created by
 
 Lamia Elgouacem - l.elgouacem@gmail.com
+
 Ren C'deBaca - rectheworld@gmail.com
+
 Damiano Melcarne - damianony@optonline.net
+
 Evan Sonderegger - evan.sonderegger@gmail.com
